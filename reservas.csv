@@ -1,0 +1,31 @@
+id_reserva,nome_hospede,data_checkin,data_checkout,tipo_quarto,valor_diaria
+1,Hospede_1,2025-07-17,2025-07-20,Suíte Master,200.0
+2,Hospede_2,2025-07-08,2025-07-12,Suíte Master,150.0
+3,Hospede_3,2025-07-11,2025-07-13,Executivo,150.0
+4,Hospede_4,2025-07-03,2025-07-07,Executivo,300.0
+5,Hospede_5,2025-07-04,2025-07-06,Standard,150.0
+6,Hospede_6,2025-07-05,2025-07-10,Executivo,200.0
+7,Hospede_7,2025-07-09,2025-07-12,Suíte Master,500.0
+8,Hospede_8,2025-07-09,2025-07-12,Suíte Master,150.0
+9,Hospede_9,2025-07-08,2025-07-09,Luxo,500.0
+10,Hospede_10,2025-07-27,2025-07-28,Luxo,500.0
+11,Hospede_11,2025-07-16,2025-07-20,Suíte Master,200.0
+12,Hospede_12,2025-07-21,2025-07-25,Suíte Master,200.0
+13,Hospede_13,2025-07-16,2025-07-17,Executivo,300.0
+14,Hospede_14,2025-07-01,2025-07-03,Standard,300.0
+15,Hospede_15,2025-07-23,2025-07-28,Standard,300.0
+16,Hospede_16,2025-07-24,2025-07-26,Executivo,300.0
+17,Hospede_17,2025-07-26,2025-07-31,Executivo,500.0
+18,Hospede_18,2025-07-13,2025-07-16,Luxo,150.0
+19,Hospede_19,2025-07-11,2025-07-12,Luxo,200.0
+20,Hospede_20,2025-07-26,2025-07-29,Suíte Master,500.0
+21,Hospede_21,2025-07-03,2025-07-07,Executivo,200.0
+22,Hospede_22,2025-07-08,2025-07-10,Luxo,300.0
+23,Hospede_23,2025-07-19,2025-07-22,Executivo,500.0
+24,Hospede_24,2025-07-26,2025-07-31,Standard,200.0
+25,Hospede_25,2025-07-20,2025-07-25,Luxo,300.0
+26,Hospede_26,2025-07-18,2025-07-22,Executivo,200.0
+27,Hospede_27,2025-07-15,2025-07-16,Executivo,150.0
+28,Hospede_28,2025-07-17,2025-07-20,Suíte Master,500.0
+29,Hospede_29,2025-07-20,2025-07-21,Suíte Master,150.0
+30,Hospede_30,2025-07-23,2025-07-26,Suíte Master,200.0
