@@ -1,6 +1,7 @@
 # dimensional-model-hotel
 Projeto de Modelagem Dimensional — Sistema de Reservas de Hotel  Desenvolvi este projeto a partir de um minicenário proposto em sala de aula, utilizando um arquivo CSV com dados de reservas de hotel. O objetivo foi aplicar conceitos de modelagem dimensional no PostgreSQL, criando tabelas de dimensões e uma tabela fato a partir de uma base bruta.
-🔍 Etapas do Projeto
+
+##🔍 Etapas do Projeto
 
 1. Criação do Schema e Tabela Base
 Iniciei o projeto criando o schema hotel e uma tabela chamada reservas, que recebeu os dados do arquivo CSV utilizando o comando COPY. Essa tabela representava a fonte de dados bruta, contendo colunas como:
@@ -53,7 +54,7 @@ SELECT MIN(id_quarto) AS id_quarto, tipo_quarto
 FROM hotel.quarto
 GROUP BY tipo_quarto
 
-🧠 Conclusão
+##🧠 Conclusão
 
 O projeto consolida o processo completo de extração, transformação e modelagem de dados em um contexto de Business Intelligence (BI).
 A partir de uma simples planilha CSV, foi possível construir um modelo estrela, com dimensões normalizadas e uma tabela fato limpa e relacional, pronta para análises como:
